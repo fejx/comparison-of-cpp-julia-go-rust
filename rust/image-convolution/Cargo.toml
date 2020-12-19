@@ -1,0 +1,11 @@
+[package]
+name = "image-convolution"
+version = "0.1.0"
+authors = ["fejx <fejx@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num_cpus = "1.13.0"
+libc = "0.2.81"
